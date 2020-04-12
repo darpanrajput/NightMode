@@ -1,6 +1,6 @@
-# NightMode
+# NightMode 
 <b>
-# Special thanks to TVAC youtube channel
+# Special thanks to TVAC Studio youtube channel
 
 ###  for tutorial follow](https://www.youtube.com/watch?v=QhGf8fGJM8U&t=179s)
 <br>
